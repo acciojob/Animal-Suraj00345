@@ -3,12 +3,12 @@
   box-sizing: border-box;
 }
 
-body {
+.animal-photos{
   margin: 0;
   background: darkgray;
 }
 
-.header {
+.photo-heading {
   text-align: center;
   text-transform: uppercase;
   padding: 32px;
